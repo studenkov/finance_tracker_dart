@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file:///lib64/dart/lib/_internal" />
+      <root url="file:///lib64/dart/lib/async" />
+      <root url="file:///lib64/dart/lib/cli" />
+      <root url="file:///lib64/dart/lib/collection" />
+      <root url="file:///lib64/dart/lib/concurrent" />
+      <root url="file:///lib64/dart/lib/convert" />
+      <root url="file:///lib64/dart/lib/core" />
+      <root url="file:///lib64/dart/lib/developer" />
+      <root url="file:///lib64/dart/lib/ffi" />
+      <root url="file:///lib64/dart/lib/html" />
+      <root url="file:///lib64/dart/lib/indexed_db" />
+      <root url="file:///lib64/dart/lib/io" />
+      <root url="file:///lib64/dart/lib/isolate" />
+      <root url="file:///lib64/dart/lib/js" />
+      <root url="file:///lib64/dart/lib/js_interop" />
+      <root url="file:///lib64/dart/lib/js_interop_unsafe" />
+      <root url="file:///lib64/dart/lib/js_util" />
+      <root url="file:///lib64/dart/lib/math" />
+      <root url="file:///lib64/dart/lib/mirrors" />
+      <root url="file:///lib64/dart/lib/svg" />
+      <root url="file:///lib64/dart/lib/typed_data" />
+      <root url="file:///lib64/dart/lib/web_audio" />
+      <root url="file:///lib64/dart/lib/web_gl" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
